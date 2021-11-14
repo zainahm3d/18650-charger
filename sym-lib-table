@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "LPS4018-472MRB")(type "Legacy")(uri "${KIPRJMOD}/components/LPS4018-472MRB/LPS4018-472MRB.lib")(options "")(descr ""))
+  (lib (name "LTC4121IUDTRPBF")(type "Legacy")(uri "${KIPRJMOD}/components/LTC4121IUDTRPBF/LTC4121IUDTRPBF.lib")(options "")(descr ""))
+  (lib (name "USB4505-03-0-A_REVA")(type "Legacy")(uri "${KIPRJMOD}/components/USB4505-03-0-A_REVA/USB4505-03-0-A_REVA.lib")(options "")(descr ""))
+  (lib (name "1048")(type "Legacy")(uri "${KIPRJMOD}/components/1048/1048.lib")(options "")(descr ""))
+  (lib (name "RCU-0C")(type "Legacy")(uri "${KIPRJMOD}/components/RCU-0C/RCU-0C.lib")(options "")(descr ""))
+)
